@@ -1,0 +1,1 @@
+Due to this file the static folder will come in the untracked stage though dir/ is still being ignored 
